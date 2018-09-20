@@ -1,0 +1,1 @@
+include ':app', ':AndroidMultiBluetoothLibrary-2.0.4-SNAPSHOT'
